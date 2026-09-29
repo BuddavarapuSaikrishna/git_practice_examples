@@ -10,3 +10,7 @@ function my_learning(){
 
     console.log("iam learning git hub")
 }
+
+function add(){
+    console.log(10+20)
+}
