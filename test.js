@@ -7,3 +7,9 @@ console.log(a)
 const b = 20 
 
 console.log(b)
+//commit 2 
+
+const c = 30 
+console.log(c)
+
+//commit 3 
