@@ -9,3 +9,5 @@ function add(b,c){
 }
 
 add(10,20)
+
+const name1 = "javascript"
